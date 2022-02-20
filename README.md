@@ -29,6 +29,6 @@ flutter build apk --split-per-abi
 
 after build is complited you can find .apk file in `build/app/outputs/flutter-apk` and install it on your device. Also one can find last realise .apk in root directory
 
-## Know issue:
+## Known issue:
 
 - when category is chosen jokes that currently displayed wont change untill its tile rebuilded (you need to scroll down and back to the tile in order to update it)
